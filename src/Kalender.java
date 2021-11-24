@@ -2,7 +2,6 @@
 import Prog1Tools.IOTools;
 
 public class Kalender {
-
 	/**
 	 * @param args
 	 */
